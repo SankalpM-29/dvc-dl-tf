@@ -1,0 +1,8 @@
+dvc
+tensorflow
+matplotlib
+numpy
+pandas
+tqdm
+PyPAML
+boto3 ## <<< for aws
